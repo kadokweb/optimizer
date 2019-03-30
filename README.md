@@ -33,7 +33,7 @@ KadokWeb é um conjunto de pequenos e otimizados componentes PHP para tarefas co
 Optimizer is available via Composer:
 
 ```bash
-"kadokweb/optimizer": "^1.0"
+"kadokweb/optimizer": "^1.1"
 ```
 
 or run
