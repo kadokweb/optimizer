@@ -1,6 +1,6 @@
 <?php
 
-namespace KadokWeb\Optimize;
+namespace KadokWeb\Optimizer;
 
 /**
  * Class KadokWeb Optimizer
