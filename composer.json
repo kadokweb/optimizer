@@ -1,0 +1,32 @@
+{
+  "name": "kadokweb/optimizer",
+  "description": "Optimizer makes it easy to bookmark your site tags, open graph and twitter card",
+  "keywords": [
+    "KadokWeb",
+    "Kadok",
+    "SEO",
+    "SMO",
+    "Meta Tags",
+    "Open Graph",
+    "Twitter Card",
+    "Facebook Tags"
+  ],
+  "homepage": "http://www.kadok.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Doka Silva",
+      "email": "dokas@kadok.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "ext-simplexml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "KadokWeb\\Optimizer\\": "src"
+    }
+  }
+}
